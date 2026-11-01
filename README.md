@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer & Student
 -------------------
 
-Hi, I'm Praveen Mogan! I am a junior at UT Austin majoring in Computer Science.
+Hi, I'm Praveen Mogan! I am a stuednt at UT Austin majoring in Computer Science and Mathematics.
 
 * 🌍  I'm based in Austin
 * 🖥️  Learn more about me at my [Website](http://praveenmogan.tech)
 * ✉️  You can contact me at [pmogan77@gmail.com](mailto:pmogan77@gmail.com)
-* ⚡  Outside of school, I enjoy playing tennis and cooking new foods.
+* ⚡  Outside of school, I enjoy playing tennis and basketball.
 
 ### Skills
 

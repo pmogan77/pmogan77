@@ -7,8 +7,7 @@ Developer & Student
 Hi, I'm Praveen Mogan! I am a student at UT Austin majoring in Computer Science and Mathematics.
 
 * 🌍  I'm based in Austin
-* 🖥️  Learn more about me at my [Website](http://praveenmogan.tech)
-* ✉️  You can contact me at [pmogan77@gmail.com](mailto:pmogan77@gmail.com)
+* 🖥️  Learn more about me at my [[Website](http://praveenmogan.tech)](https://praveenmogan.vercel.app/)
 * ⚡  Outside of school, I enjoy playing tennis and basketball.
 
 ### Skills
